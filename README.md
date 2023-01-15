@@ -4,8 +4,9 @@
 ### Contacts:
 - Mail: info@devarty.com 
 
-### Link
+### Links:
 - Twitter: https://twitter.com/devarty
+- Mastodon: https://mastodon.social/@devarty
 
 
 <!--
